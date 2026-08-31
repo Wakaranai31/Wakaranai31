@@ -1,10 +1,10 @@
-# Halo, Hello, こんにちは, I'm [Zakki Zakwan Adysti]!
+# Halo, Hello, こんにちは, I'm [Zakki Zakwan Adysti]! 🙌🏼
 Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).
 <br>
 <br>
 <br>
 
-## Fun Facts 
+## 🌚 Fun Facts  
 _I like cooking_
 <br>
 <hr>
@@ -16,7 +16,7 @@ _I like cooking_
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakki_Zakwan_Adysti) 
 
 
-### 💻 Tech Stack:
+### 📦 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
@@ -35,11 +35,13 @@ _I like cooking_
  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Wakaranai31&layout=compact&langs_count=5&hide_values=true&theme=dark" alt="Tech Stack">
 </div>
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Wakaranai31&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://streak-stats.demolab.com/?user=Wakaranai31&theme=dark&hide_border=true)
+### 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Wakaranai31&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Wakaranai31&theme=dark&hide_border=true" alt="GitHub Streak" />
+</div>
 
-# Quotes
+## 🍂 Quotes 🍃
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote">
   <hr>
