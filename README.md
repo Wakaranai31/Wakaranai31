@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm [Zakki Zakwan Adysti]! 👋
 
-<!--
-**Wakaranai31/Wakaranai31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Tech Stack
+*   **Backend:** PHP, Laravel
+*   **Database:** MySQL, Mongo DB
+*   **Frontend & UI/UX:** Tailwind CSS, Figma
+*   **OS & Workflow:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 GitHub Stats
+<!-- Ganti USERNAME_MU dengan username GitHub aslimu -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wakaranai31&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wakaranai31&layout=compact&theme=radical)
+
+### 🌟 Fun Facts
+* I like [cooking]
+
+### 📫 Let's Connect!
+*   **LinkedIn:** [https://www.linkedin.com/in/zakki-zakwan-adysti-a13827432/]
+*   **Instagram:** [https://www.instagram.com/___.zdyz/]
