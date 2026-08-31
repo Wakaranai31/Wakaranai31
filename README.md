@@ -1,4 +1,4 @@
-# Halo, Hello, こんにちは, I'm [Zakki Zakwan Adysti]! 🙌🏼
+# Halo, Hello, こんにちは, I'm Zakki Zakwan Adysti! 🙌🏼
 <strong>Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).</strong>
 <br>
 <br>
