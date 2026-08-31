@@ -1,14 +1,46 @@
-# Halo, Hello, こんにちは, I'm [Zakki Zakwan Adysti]! <br><br>Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).<br><br>### Skills & Tech Stack<br>*   **Backend:** PHP, Laravel<br>*   **Database:** MySQL, Mongo DB<br>*   **Frontend & UI/UX:** Tailwind CSS, Figma<br>*   **OS & Workflow:** Git<br><br>### Fun Facts<br>* I like [cooking]
+# Halo, Hello, こんにちは, I'm [Zakki Zakwan Adysti]!
+Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).
+<br>
+<br>
+<br>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.zdyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakki_Zakwan_Adysti) 
+## Fun Facts 
+_I like cooking_
+<br>
+<hr>
+<hr>
+<hr>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Wakaranai31&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Wakaranai31&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Wakaranai31&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.zdyz)<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakki_Zakwan_Adysti) 
 
-### Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+### 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) 
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)<br>
+<div align="center">
+ <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Wakaranai31&layout=compact&langs_count=5&hide_values=true&theme=dark" alt="Tech Stack">
+</div>
+
+### 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Wakaranai31&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=Wakaranai31&theme=dark&hide_border=true)
+
+# Quotes
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark" alt="Quote">
+  <hr>
+</div>
