@@ -1,19 +1,21 @@
 # Halo, Hello, こんにちは, I'm [Zakki Zakwan Adysti]! 🙌🏼
-Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).
+<strong>Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di Politeknik Negeri Batam. Saya sangat antusias terhadap perkembangan teknologi dan senang bereksplorasi. Saat ini, saya juga aktif berorganisasi dan berkontribusi di divisi pemrogramming Batam Linux User Group (BLUG).</strong>
 <br>
 <br>
 <br>
 
 ## 🌚 Fun Facts  
-_I like cooking_
+<i><strong> I like cooking </strong></i>
 <br>
 <hr>
 <hr>
 <hr>
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.zdyz)<br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakki_Zakwan_Adysti) 
+<div align="center">
+<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/___.zdyz" alt="Instagram"><br>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Zakki_Zakwan_Adysti" alt="Linkin">
+</div>
 
 
 ### 📦 Tech Stack:
