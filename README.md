@@ -9,7 +9,7 @@ Saya adalah seorang **Software Enginer** dan mahasiswa yang sedang berkuliah di 
 *   **OS & Workflow:** Git
 
 ### GitHub Stats
-![Zakwan GitHub stats](https://github-stats-extended.vercel.app/api?username=Wakaranai31&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
+![Zakwan GitHub stats](https://github-stats-extended.vercel.app/api?username=Wakaranai31&rank_icon=github&include_all_commits=true)
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Wakaranai31&hide_title=true&langs_count=4&hide_values=true&theme=radical)
 
 ### Fun Facts
